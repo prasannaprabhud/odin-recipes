@@ -1,0 +1,4 @@
+The Odin Project (TOP) is an open-source coding curriculum that shares the free resources online.
+
+Odin Recipe project is the beginner project in HTML.
+
