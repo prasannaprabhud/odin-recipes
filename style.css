@@ -1,0 +1,15 @@
+h1{
+    color: orange;
+    text-align: center;
+    font-size: 50px;
+}
+
+.recipes-list{
+    margin-left: 25px;
+    color: lightgreen;
+}
+
+#homepage{
+    text-align: center;
+}
+
