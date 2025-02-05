@@ -1,3 +1,8 @@
+body{
+   margin: 0 auto;
+   background-color: bisque;
+}
+
 h1{
     color: orange;
     text-align: center;
@@ -5,12 +10,27 @@ h1{
 }
 
 .recipes-list{
-    margin-left: 25px;
-    color: lightgreen;
+    height: 100px;
+    width: 300px ;
+    margin: 20px;
+    padding: 10px;
 }
+
+/* a{
+    color: ;
+} 
+
+{
+    text-align: center;
+} */
 
 #homepage{
     text-align: center;
+    color: black;
+}
+
+.home{
+    color: black;
 }
 
 /* *{
